@@ -1,0 +1,387 @@
+/**
+iconfont Webfont
+*/
+@font-face {
+	font-family: 'iconfont';
+	src: url('iconfont.eot?1626419749704');
+	src: url('iconfont.eot?#iefix-1626419749704') format('embedded-opentype'),
+		url('iconfont.woff2?1626419749704') format('woff2'),
+		url('iconfont.woff?1626419749704') format('woff'),
+		url('iconfont.ttf?1626419749704') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^='iconfont-']:before,
+[class*=' iconfont-']:before {
+	font-family: 'iconfont';
+	display: inline-block;
+	vertical-align: middle;
+	line-height: 1;
+	font-weight: normal;
+	font-style: normal;
+	speak: none;
+	text-decoration: inherit;
+	font-size: inherit;
+	text-transform: none;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+/*
+Glyphs list
+*/
+ .iconfont-address:before {
+			content: '\ea01';
+		}
+
+		 .iconfont-address2:before {
+			content: '\ea02';
+		}
+
+		 .iconfont-atm-card:before {
+			content: '\ea03';
+		}
+
+		 .iconfont-authentication:before {
+			content: '\ea04';
+		}
+
+		 .iconfont-baby:before {
+			content: '\ea05';
+		}
+
+		 .iconfont-back:before {
+			content: '\ea06';
+		}
+
+		 .iconfont-back2:before {
+			content: '\ea07';
+		}
+
+		 .iconfont-bar:before {
+			content: '\ea08';
+		}
+
+		 .iconfont-book:before {
+			content: '\ea09';
+		}
+
+		 .iconfont-box:before {
+			content: '\ea0a';
+		}
+
+		 .iconfont-buy:before {
+			content: '\ea0b';
+		}
+
+		 .iconfont-calendar:before {
+			content: '\ea0c';
+		}
+
+		 .iconfont-car:before {
+			content: '\ea0d';
+		}
+
+		 .iconfont-cart:before {
+			content: '\ea0e';
+		}
+
+		 .iconfont-check-box:before {
+			content: '\ea0f';
+		}
+
+		 .iconfont-checked:before {
+			content: '\ea10';
+		}
+
+		 .iconfont-clock:before {
+			content: '\ea11';
+		}
+
+		 .iconfont-close:before {
+			content: '\ea12';
+		}
+
+		 .iconfont-close2:before {
+			content: '\ea13';
+		}
+
+		 .iconfont-compass:before {
+			content: '\ea14';
+		}
+
+		 .iconfont-dam-bao:before {
+			content: '\ea15';
+		}
+
+		 .iconfont-date:before {
+			content: '\ea16';
+		}
+
+		 .iconfont-delete:before {
+			content: '\ea17';
+		}
+
+		 .iconfont-discount:before {
+			content: '\ea18';
+		}
+
+		 .iconfont-dong-ho:before {
+			content: '\ea19';
+		}
+
+		 .iconfont-down:before {
+			content: '\ea1a';
+		}
+
+		 .iconfont-edit:before {
+			content: '\ea1b';
+		}
+
+		 .iconfont-exclamation-mark:before {
+			content: '\ea1c';
+		}
+
+		 .iconfont-Facebook:before {
+			content: '\ea1d';
+		}
+
+		 .iconfont-fashion-men:before {
+			content: '\ea1e';
+		}
+
+		 .iconfont-fashion-woment:before {
+			content: '\ea1f';
+		}
+
+		 .iconfont-file:before {
+			content: '\ea20';
+		}
+
+		 .iconfont-football:before {
+			content: '\ea21';
+		}
+
+		 .iconfont-game:before {
+			content: '\ea22';
+		}
+
+		 .iconfont-giasoc:before {
+			content: '\ea23';
+		}
+
+		 .iconfont-gioihan:before {
+			content: '\ea24';
+		}
+
+		 .iconfont-grid:before {
+			content: '\ea25';
+		}
+
+		 .iconfont-heart:before {
+			content: '\ea26';
+		}
+
+		 .iconfont-heart2:before {
+			content: '\ea27';
+		}
+
+		 .iconfont-help:before {
+			content: '\ea28';
+		}
+
+		 .iconfont-home:before {
+			content: '\ea29';
+		}
+
+		 .iconfont-home2:before {
+			content: '\ea2a';
+		}
+
+		 .iconfont-hotline:before {
+			content: '\ea2b';
+		}
+
+		 .iconfont-language:before {
+			content: '\ea2c';
+		}
+
+		 .iconfont-like:before {
+			content: '\ea2d';
+		}
+
+		 .iconfont-link:before {
+			content: '\ea2e';
+		}
+
+		 .iconfont-link2:before {
+			content: '\ea2f';
+		}
+
+		 .iconfont-lipstick:before {
+			content: '\ea30';
+		}
+
+		 .iconfont-mail:before {
+			content: '\ea31';
+		}
+
+		 .iconfont-map:before {
+			content: '\ea32';
+		}
+
+		 .iconfont-next:before {
+			content: '\ea33';
+		}
+
+		 .iconfont-next1:before {
+			content: '\ea34';
+		}
+
+		 .iconfont-next2:before {
+			content: '\ea35';
+		}
+
+		 .iconfont-notifi:before {
+			content: '\ea36';
+		}
+
+		 .iconfont-notifi1:before {
+			content: '\ea37';
+		}
+
+		 .iconfont-notifi2:before {
+			content: '\ea38';
+		}
+
+		 .iconfont-notifi3:before {
+			content: '\ea39';
+		}
+
+		 .iconfont-padlock:before {
+			content: '\ea3a';
+		}
+
+		 .iconfont-payment:before {
+			content: '\ea3b';
+		}
+
+		 .iconfont-perfume:before {
+			content: '\ea3c';
+		}
+
+		 .iconfont-phone:before {
+			content: '\ea3d';
+		}
+
+		 .iconfont-picture:before {
+			content: '\ea3e';
+		}
+
+		 .iconfont-plane:before {
+			content: '\ea3f';
+		}
+
+		 .iconfont-prev1:before {
+			content: '\ea40';
+		}
+
+		 .iconfont-prev2:before {
+			content: '\ea41';
+		}
+
+		 .iconfont-refresh:before {
+			content: '\ea42';
+		}
+
+		 .iconfont-review:before {
+			content: '\ea43';
+		}
+
+		 .iconfont-rss:before {
+			content: '\ea44';
+		}
+
+		 .iconfont-search:before {
+			content: '\ea45';
+		}
+
+		 .iconfont-send:before {
+			content: '\ea46';
+		}
+
+		 .iconfont-send_bank:before {
+			content: '\ea47';
+		}
+
+		 .iconfont-shipped:before {
+			content: '\ea48';
+		}
+
+		 .iconfont-smartphone:before {
+			content: '\ea49';
+		}
+
+		 .iconfont-sosanh:before {
+			content: '\ea4a';
+		}
+
+		 .iconfont-star-full:before {
+			content: '\ea4b';
+		}
+
+		 .iconfont-star-half:before {
+			content: '\ea4c';
+		}
+
+		 .iconfont-star-none:before {
+			content: '\ea4d';
+		}
+
+		 .iconfont-superscript2:before {
+			content: '\ea4e';
+		}
+
+		 .iconfont-thutuc:before {
+			content: '\ea4f';
+		}
+
+		 .iconfont-tietkiem:before {
+			content: '\ea50';
+		}
+
+		 .iconfont-tivi:before {
+			content: '\ea51';
+		}
+
+		 .iconfont-twiter:before {
+			content: '\ea52';
+		}
+
+		 .iconfont-Union:before {
+			content: '\ea53';
+		}
+
+		 .iconfont-Up:before {
+			content: '\ea54';
+		}
+
+		 .iconfont-upfile:before {
+			content: '\ea55';
+		}
+
+		 .iconfont-user:before {
+			content: '\ea56';
+		}
+
+		 .iconfont-vector:before {
+			content: '\ea57';
+		}
+
+		 .iconfont-visa:before {
+			content: '\ea58';
+		}
+
+		

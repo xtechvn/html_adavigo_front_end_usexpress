@@ -1,0 +1,38 @@
+@import "var.scss";
+
+.product_detail {
+	.title_name{
+		font-size: 16px;
+		font-weight: 400;
+		margin-bottom: 0;
+		line-height: 1.4;
+		img{
+			margin: -2px 5px 0 0;
+		}
+	}
+}
+#slide-product{
+	position: relative;
+	.choice{
+		position: absolute;
+	}
+	.ava{
+		position: relative;
+		height: 346px;
+	}
+	.swiper-container{
+		margin-bottom: 10px;
+	}
+	.swiper-pagination{
+		position: static;
+		background: #EBEBEB;
+		border-radius: 10px;
+		padding: 6px 10px;
+		text-align: center;
+		display: block;
+		width: 70px;
+		color: #666666;
+		font-weight: 300;
+		margin: 0 auto;
+	}
+}
